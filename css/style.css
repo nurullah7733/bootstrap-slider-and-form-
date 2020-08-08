@@ -1,0 +1,121 @@
+.banner_area{
+	margin-bottom: 30px;
+}
+
+.content-area{
+	margin-bottom: 20px;
+}
+
+.content{
+	padding: 15px;
+	border-radius: 8px;
+	
+}
+
+.navbar-brand{
+	padding-left: 40px;
+	font-size: xx-large;
+	font-weight: bold;
+	color: #dff9fb !important;
+	z-index: 999;
+	position: relative;
+}
+
+
+.nav-link{
+	color: white !important;
+}
+
+.navbar-toggler{
+	background-color: white !important;
+}
+
+.nav-item{
+	margin-right: 40px;
+}
+
+.bannerSlide{
+	margin-top: 74px;
+}
+
+
+.carousel-caption{
+	bottom: 175px !important;
+}
+
+
+
+.headerArea{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 999;
+}
+
+.banner img{
+	height: 500px;
+}
+
+.contact-us i{
+    font-size: 25px;
+}
+
+
+
+.form-1{ 
+	background-image: linear-gradient(to top, #7a44b6 0%, #36b0d5 100%);
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+fieldset{
+	padding: 30px 15px;
+}
+
+
+/*body{
+  background-color: #55ca9f;
+  background-image: linear-gradient(to top, #7a44b6 0%, #36b0d5 100%);
+  color: #57606f;
+}*/
+
+
+ .form-control:focus,.btn-primary:not(:disabled):not(.disabled).active:focus,.btn-primary:focus,.btn-light:not(:disabled):not(.disabled).active:focus,.btn-light:focus {
+    border-color: #ccc;
+    outline: 0;
+    -webkit-box-shadow: inset 0 0 0 rgba(0,0,0,0),0 0 0 rgba(0,0,0,0) !important;
+    box-shadow: inset 0 0 0 rgba(0,0,0,0),0 0 0 rgba(0,0,0,0) !important;
+}
+ 
+
+.form-1 .form-control{
+	background-color: #f1f2f6;
+	color: grey;
+}
+
+
+.form-1 .form-control::placeholder {
+  color: grey;
+  opacity: .5; /* Firefox */
+}
+
+.form-1 .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: #fff;
+}
+
+.form-1 .form-control::-ms-input-placeholder { /* Microsoft Edge */
+ color: #fff;
+}
+
+
+.form-check-inline{
+  margin-right: 0.68rem !important;
+}
+
+.birth{
+  margin-top: 7px;
+}
+
+.gender{
+  margin-top: 7px;
+}
